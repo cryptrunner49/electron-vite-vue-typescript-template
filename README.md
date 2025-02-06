@@ -1,1 +1,1 @@
-# CMake template
+# Electron + Vite + Vue + TypeScript template
